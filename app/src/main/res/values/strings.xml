@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Fit</string>
+    <string name="scheduleName" translatable="false">Schedule Name</string>
+    <string name="from" translatable="false">From</string>
+    <string name="to" translatable="false">To</string>
+    <string name="chart" translatable="false">Chart</string>
+    <string name="addnewchart" translatable="false">Add New Chart</string>
+    <string name="add" translatable="false">Add</string>
+    <string name="back" translatable="false"><![CDATA[< Back]]></string>
+    <string name="txt" translatable="false">TextView</string>
+    <string name="viewWorkouts" translatable="false">View Workouts</string>
+    <string name="reset">Reset</string>
+    <string name="mychart">My Chart</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="updatechart">Update Chart</string>
+</resources>
