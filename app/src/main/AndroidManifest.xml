@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myfit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bg9"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/bg9"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MYFIT">
+        <activity android:name=".ActivityHome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityChronometer" />
+        <activity android:name=".ActivityViewGoal" />
+        <activity android:name=".ActivityAddGoal" />
+        <activity android:name=".ActivityGoal"/>
+
+
+        <activity android:name=".ActivityViewWorkout" />
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MYFIT</string>
+
+    <string name="scheduleName" translatable="false">Schedule Name</string>
+    <string name="from" translatable="false">From</string>
+    <string name="to" translatable="false">To</string>
+    <string name="chart" translatable="false">Chart</string>
+    <string name="addnewchart" translatable="false">Add New Chart</string>
+    <string name="add" translatable="false">Add</string>
+    <string name="back" translatable="false"><![CDATA[< Back]]></string>
+    <string name="txt" translatable="false">TextView</string>
+    <string name="viewWorkouts" translatable="false">View Workouts</string>
+    <string name="reset">Reset</string>
+    <string name="mychart">My Chart</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="updatechart">Update Chart</string>
+    <string name="date">Date</string>
+    <string name="start">Start Time</string>
+    <string name="end">End Time</string>
+    <string name="status">Status</string>
+    <string name="note">Note</string>
+    <string name="addnewgoal">Add New Goal</string>
+    <string name="viewgoals">View Goals</string>
+    <string name="selectdate">Select Date</string>
+    <string name="stopwatch">StopWatch</string>
+    <string name="workouts">Workouts</string>
+    <string name="goals">Goals</string>
+
+    <string-array name="status_array">
+        <item>Normal</item>
+        <item>Good</item>
+        <item>Tired</item>
+        <item>Less</item>
+        <item>Very Tired</item>
+    </string-array>
+</resources>
